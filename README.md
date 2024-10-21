@@ -1,6 +1,6 @@
 # Budget Management System
 
-**Authors: [@RubnK](https://github.com/RubnK)**
+**Author: [@RubnK](https://github.com/RubnK)**
 
 This Budget Management System is a web application designed to help users manage their finances by tracking their transactions and categorizing them. Users can add categories, log transactions, and update the status of transactions when they have been "pointed" or confirmed.
 
